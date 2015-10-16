@@ -1,0 +1,30 @@
+{
+  "name": "node_markdown_post",
+  "version": "1.0.0",
+  "description": "simple file system ,support markdown & es6",
+  "main": "index.js",
+  "dependencies": {
+    "fs-readfile-promise": "^2.0.1",
+    "fs-readdir-promise": "^1.0.1",
+    "node-markdown": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpcslag/node_markdown_post.git"
+  },
+  "keywords": [
+    "markdown",
+    "blog",
+    "filesystem"
+  ],
+  "author": "MacTaylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpcslag/node_markdown_post/issues"
+  },
+  "homepage": "https://github.com/hpcslag/node_markdown_post#readme"
+}
